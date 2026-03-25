@@ -26,8 +26,8 @@ Since then, I've been through some stages:
 - MAUI Blazor [City Weather App](https://github.com/Dario-97-d/CityWeatherApp)
 - Winforms [HotBev Machine](https://github.com/Dario-97-d/HotBevMachine)
 - WinForms [Studentia](https://github.com/Dario-97-d/Studentia)
-- ASP.NET Core [Flair Tickets](https://github.com/Dario-97-d/FlairTickets)
 - WinForms [Air Tickets](https://github.com/Dario-97-d/AirTickets)
+- ASP.NET Core [Flair Tickets](https://github.com/Dario-97-d/FlairTickets)
 
 ### 📃 Later:
 
