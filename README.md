@@ -7,11 +7,11 @@ I'm currently tidying up my GitHub repositories in order to nicely present the p
 - React [Task CRUD](https://github.com/Dario-97-d/react-fundamentals-test)
 - React [Training Exercises](https://github.com/Dario-97-d/my-first-react)
 - ASP.NET Core [SuperShop](https://github.com/Dario-97-d/SuperShop)
+- MAUI Blazor [City Weather App](https://github.com/Dario-97-d/CityWeatherApp)
 - Console [Folder Sync](https://github.com/Dario-97-d/FolderSync)
 
 ### 🔧 Ongoing:
 
-- MAUI Blazor [City Weather App](https://github.com/Dario-97-d/CityWeatherApp)
 - Winforms [HotBev Machine](https://github.com/Dario-97-d/HotBevMachine)
 - WinForms [Studentia](https://github.com/Dario-97-d/Studentia)
 - WinForms [Air Tickets](https://github.com/Dario-97-d/AirTickets)
