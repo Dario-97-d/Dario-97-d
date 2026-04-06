@@ -9,10 +9,10 @@ I'm currently tidying up my GitHub repositories in order to nicely present the p
 - ASP.NET Core [SuperShop](https://github.com/Dario-97-d/SuperShop)
 - MAUI Blazor [City Weather App](https://github.com/Dario-97-d/CityWeatherApp)
 - Console [Folder Sync](https://github.com/Dario-97-d/FolderSync)
+- WinForms [Air Tickets](https://github.com/Dario-97-d/AirTickets)
 
 ### 🔧 Ongoing:
 
-- WinForms [Air Tickets](https://github.com/Dario-97-d/AirTickets)
 - ASP.NET Core [Flair Tickets](https://github.com/Dario-97-d/FlairTickets)
 
 <!--
