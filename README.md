@@ -12,17 +12,8 @@ I'm currently tidying up my GitHub repositories in order to nicely present the p
 
 ### 🔧 Ongoing:
 
-- Winforms [HotBev Machine](https://github.com/Dario-97-d/HotBevMachine)
-- WinForms [Studentia](https://github.com/Dario-97-d/Studentia)
 - WinForms [Air Tickets](https://github.com/Dario-97-d/AirTickets)
 - ASP.NET Core [Flair Tickets](https://github.com/Dario-97-d/FlairTickets)
-
-### 📃 Later:
-
-- PHP [Football Player Game](https://github.com/Dario-97-d/FBP)
-- PHP [Naruto-based Shinobi Game](https://github.com/Dario-97-d/nbsg)
-- PHP [Gladiator/Spartacus Game](https://github.com/Dario-97-d/jgs)
-- PHP [Middle Age Knight Game](https://github.com/Dario-97-d/mak)
 
 <!--
 **Dario-97-d/Dario-97-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
