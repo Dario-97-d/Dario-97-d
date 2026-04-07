@@ -1,23 +1,18 @@
 ## Hi there 👋
 
-I'm currently tidying up my GitHub repositories in order to nicely present the projects I've worked on since 2016.
+I'm currently on my way to make a simple portfolio website to showcase my experience.
 
-### 📺 Ready:
+### 📺 Main projects:
 
 - React [Task CRUD](https://github.com/Dario-97-d/react-fundamentals-test)
 - React [Training Exercises](https://github.com/Dario-97-d/my-first-react)
 - Console [Folder Sync](https://github.com/Dario-97-d/FolderSync)
 - MAUI Blazor [City Weather App](https://github.com/Dario-97-d/CityWeatherApp)
+- ASP.NET Core [Flair Tickets](https://github.com/Dario-97-d/FlairTickets)
 - ASP.NET Core [SuperShop](https://github.com/Dario-97-d/SuperShop)
 - WinForms [Aero Tickets](https://github.com/Dario-97-d/AeroTickets)
 
-### 🔧 Ongoing:
-
-- ASP.NET Core [Flair Tickets](https://github.com/Dario-97-d/FlairTickets)
-
 <!--
-**Dario-97-d/Dario-97-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
