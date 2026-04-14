@@ -11,6 +11,7 @@ I'm currently on my way to make a simple portfolio website to showcase my experi
 - ASP.NET Core [Flair Tickets](https://github.com/Dario-97-d/FlairTickets)
 - ASP.NET Core [SuperShop](https://github.com/Dario-97-d/SuperShop)
 - WinForms [Aero Tickets](https://github.com/Dario-97-d/AeroTickets)
+- WinForms [Studentia](https://github.com/Dario-97-d/Studentia)
 - WinForms [HotBevMachine](https://github.com/Dario-97-d/HotBevMachine)
 
 <!--
